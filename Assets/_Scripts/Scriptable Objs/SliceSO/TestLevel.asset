@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd17f2cd178e134289f0c20bed9743c, type: 3}
+  m_Name: TestLevel
+  m_EditorClassIdentifier: 
+  Sliceable_Objs:
+  - {fileID: 11400000, guid: 4151a88d0a0d1d04a99c0cf99e3f012c, type: 2}
+  - {fileID: 11400000, guid: 4d4724b3e006c04489473271770887dc, type: 2}
+  - {fileID: 11400000, guid: 8b9dd0c52f45d6844959a46f240ea512, type: 2}
+  levelPassingGrade: 80
